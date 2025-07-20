@@ -68,7 +68,7 @@ This project implements a set of simple utility classes in Java, including a `Ca
 
 ### Prerequisites
 
-- Java Development Kit (JDK) 11 or higher
+- Java Development Kit (JDK) 21 or higher
 - Apache Maven 3.6.3 or higher
 
 

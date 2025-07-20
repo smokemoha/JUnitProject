@@ -71,6 +71,13 @@ This project implements a set of simple utility classes in Java, including a `Ca
 - Java Development Kit (JDK) 11 or higher
 - Apache Maven 3.6.3 or higher
 
+
+## Clone This Repository
+
+To get a local copy of this project, run the following command in your terminal:
+
+```bash
+git clone  https://github.com/smokemoha/JUnitProject.git
 ### Building the Project
 
 Navigate to the root directory of the project (`JUnitProject`) and run the following Maven command to build the project:
